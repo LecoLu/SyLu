@@ -1,0 +1,10 @@
+{
+  "name": "SyLu",
+  "author": "LecoLu",
+  "url": "https://github.com/LecoLu/SyLu",
+  "version": "0.1",
+  "modes": [
+    "dark",
+    "light"
+  ]
+}
