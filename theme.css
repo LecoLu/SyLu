@@ -1,4 +1,4 @@
 /* 修改代码块折叠后显示的高度，这里设置显示2行，即第一行是代码类型，第二个是代码块内容的第一行 */
 .protyle-wysiwyg [data-node-id][fold="1"]:not(.li):not([data-type="NodeHeading"]).code-block {
-    height: 48px;
+    height: 46px;
 }
