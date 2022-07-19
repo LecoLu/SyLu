@@ -6,9 +6,9 @@
 /* 解决从2.0.26---2.1.x开始文档内容宽度变小的问题 */
 .protyle-wysiwyg {
     padding-left: 16px !important;
-    padding-right: 16px !important
+    padding-right: 16px !important;
 }
 .protyle-title {
     margin-left: 16px !important;
-    padding-right: 16px !important
+    padding-right: 16px !important;
 } 
